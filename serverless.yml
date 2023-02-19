@@ -8,7 +8,7 @@ provider:
 
 plugins:
   - serverless-finch
-  # - serverless-single-page-app-plugin
+  - serverless-single-page-app-plugin
   - serverless-s3-cleaner
 
 custom:
