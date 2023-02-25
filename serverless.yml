@@ -1,4 +1,4 @@
-service: comics-merch-frontend
+service: comics-merch-front
 frameworkVersion: '3'
 
 provider:
@@ -13,7 +13,7 @@ plugins:
 
 custom:
   client:
-    bucketName: comics-merch-2
+    bucketName: comics-merch
     distributionFolder: dist
     indexDocument: index.html
     errorDocument: error.html
