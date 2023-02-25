@@ -1,4 +1,10 @@
-# React-shop-cloudfront
+# Comics Merch Shop
+
+## Task Links
+- AWS CloudFront: https://d932v8d5j0dtf.cloudfront.net
+- AWS S3 Website : http://comics-merch-2.s3-website.ap-south-1.amazonaws.com/ (403 Access Denied)
+- AWS S3 Bucket : https://comics-merch-2.s3.ap-south-1.amazonaws.com/ (403 Access Denied)
+
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
